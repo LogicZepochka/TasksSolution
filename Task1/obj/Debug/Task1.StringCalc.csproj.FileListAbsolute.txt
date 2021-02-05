@@ -1,0 +1,13 @@
+C:\Users\Евгений\source\repos\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Евгений\source\repos\Tasks\bin\Debug\Tasks.exe
+C:\Users\Евгений\source\repos\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Евгений\source\repos\Tasks\obj\Debug\Task1.StringCalc.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\Tasks\obj\Debug\Task1.StringCalc.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Tasks\obj\Debug\Tasks.exe
+C:\Users\Евгений\source\repos\Tasks\obj\Debug\Tasks.pdb
+E:\Tasks\Task1\bin\Debug\Tasks.exe.config
+E:\Tasks\Task1\bin\Debug\Tasks.exe
+E:\Tasks\Task1\bin\Debug\Tasks.pdb
+E:\Tasks\Task1\obj\Debug\Task1.StringCalc.csproj.CoreCompileInputs.cache
+E:\Tasks\Task1\obj\Debug\Tasks.exe
+E:\Tasks\Task1\obj\Debug\Tasks.pdb

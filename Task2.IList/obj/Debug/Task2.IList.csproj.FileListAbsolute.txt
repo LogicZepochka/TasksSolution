@@ -1,0 +1,11 @@
+C:\Users\Евгений\source\repos\Task2.IList\bin\Debug\Task2.IList.dll
+C:\Users\Евгений\source\repos\Task2.IList\bin\Debug\Task2.IList.pdb
+C:\Users\Евгений\source\repos\Task2.IList\obj\Debug\Task2.IList.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\Task2.IList\obj\Debug\Task2.IList.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Task2.IList\obj\Debug\Task2.IList.dll
+C:\Users\Евгений\source\repos\Task2.IList\obj\Debug\Task2.IList.pdb
+E:\Tasks\Task2.IList\bin\Debug\Task2.IList.dll
+E:\Tasks\Task2.IList\bin\Debug\Task2.IList.pdb
+E:\Tasks\Task2.IList\obj\Debug\Task2.IList.csproj.CoreCompileInputs.cache
+E:\Tasks\Task2.IList\obj\Debug\Task2.IList.dll
+E:\Tasks\Task2.IList\obj\Debug\Task2.IList.pdb
